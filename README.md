@@ -10,3 +10,5 @@
  
 ![image icmp](https://github.com/user-attachments/assets/9fe2515b-2eeb-4ef1-94a6-9ff21c02eefe)
 
+![image dns](https://github.com/user-attachments/assets/94b4402d-fc36-44ae-b118-b0a891378ae2)
+
